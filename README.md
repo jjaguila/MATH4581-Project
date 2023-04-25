@@ -44,11 +44,11 @@ After obtaining the three health factors with the highest correlation factor, I 
 
 ### Graphs of Orignal Data Points and Line of Best Fit
 
-<img src="schoolingvLE.png" width=50% height=50%>
+<img src="schoolingvLE.png" width=50% height=50% class="center">
 
-<img src="adultmortalityvsLE.png" width=50% height=50%>
+<img src="adultmortalityvsLE.png" width=50% height=50% class="center">
 
-<img src="incomevsLE.png" width=50% height=50%>
+<img src="incomevsLE.png" width=50% height=50% class="center">
 
 
 
