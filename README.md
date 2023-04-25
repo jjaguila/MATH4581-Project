@@ -9,7 +9,7 @@ For this project, the aim is to determine how different attributes can correlate
 First, I imported the dataset aquired from Kaggle.com. The dataset contains life expectancy values from the WHO along with othetr factors that may influence a country's life expectancy. 
 
 After cleaning and preparing the data, I determined the correlation value for each factor with respect to life expectancy. 
-!["Correlation of each feature](correlation.png)
+<img src="correlation.png" width=50% height=50%>
 
 Afterwards, I determined that the three factors with the highest (absolute) correlation factors were adult morality, income composition of resources, and schooling. 
 These factors are defined below. 
