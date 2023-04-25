@@ -38,7 +38,7 @@ After obtaining the three health factors with the highest correlation factor, I 
 ### Lines of linear regression
  - Schooling : $y = 44.11 + 2.10x$, where y is life expectancy in years, and x is number of years of schooling
  - Adult Mortality : $y = 78.02 + 2.10x$, where y is life expectancy in years, and x is the probability of dying between 15 and 60 years per 1000 population.
- - Income composition of resources : $y = 49.17 + 32.16x, where where y is life expectancy in years, and x is the Human Development Index in terms of income composition of resources.
+ - Income composition of resources : $y = 49.17 + 32.16x$, where where y is life expectancy in years, and x is the Human Development Index in terms of income composition of resources.
 
 ### Statisical Significance
 - For all of the attributes, the p-value is 0 (or close to 0), which is below 5%. This means that each regression line is statisically significant and we can reject the null hypothesis.
