@@ -9,9 +9,9 @@ For this project, the aim is to determine how different attributes can correlate
 First, I imported the dataset aquired from Kaggle.com. The dataset contains life expectancy values from the WHO along with othetr factors that may influence a country's life expectancy. 
 
 After cleaning and preparing the data, I determined the correlation value for each factor with respect to life expectancy. 
-
+<p align="center">
 <img src="correlation.png" width=50% height=50%>
-
+</p>
 Afterwards, I determined that the three factors with the highest (absolute) correlation factors were adult morality, income composition of resources, and schooling. 
 These factors are defined below. 
 - Adult morality - probability of dying between 15 and 60 years per 1000 population
@@ -43,12 +43,15 @@ After obtaining the three health factors with the highest correlation factor, I 
 - For all of the attributes, the p-value is 0 (or close to 0), which is below 5%. This means that each regression line is statiscaly significant and we can reject the null hypothesis.
 
 ### Graphs of Orignal Data Points and Line of Best Fit
-
-<img src="schoolingvLE.png" width=50% height=50% class="center">
-
-<img src="adultmortalityvsLE.png" width=50% height=50% class="center">
-
-<img src="incomevsLE.png" width=50% height=50% class="center">
+<p align="center">
+    <img src="schoolingvLE.png" width=50% height=50% class="center">
+</p>
+<p align="center">
+    <img src="adultmortalityvsLE.png" width=50% height=50% class="center">
+</p>
+<p align="center">
+    <img src="incomevsLE.png" width=50% height=50% class="center">
+</p>
 
 
 
