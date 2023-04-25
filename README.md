@@ -42,4 +42,13 @@ After obtaining the three health factors with the highest correlation factor, I 
 ### Statisical Significance
 - For all of the attributes, the p-value is 0 (or close to 0), which is below 5%. This means that each regression line is statiscaly significant and we can reject the null hypothesis.
 
+### Graphs of Orignal Data Points and Line of Best Fit
+
+<img src="schoolingvLE.png" width=50% height=50%>
+
+<img src="adultmortalityvsLE.png" width=50% height=50%>
+
+<img src="incomevsLE.png" width=50% height=50%>
+
+
 
