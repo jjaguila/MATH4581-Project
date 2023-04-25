@@ -55,4 +55,5 @@ After obtaining the three health factors with the highest correlation factor, I 
 </p>
 
 
-
+## Conclusion
+We have concluded that schooling, adult mortality, and income composition are the three (3) factors with the highest correlation in respects with life expectancy. We also determined that all of the regression lines computed are statistically significant. 
